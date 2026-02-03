@@ -164,10 +164,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Naivedh**
 
-- GitHub: [@naive](https://github.com/naive)
+- GitHub: [@naivedhp2518](https://github.com/naivedhp2518)
 
 ---
-
+h
 ## 🙏 Acknowledgments
 
 - [Uiverse.io](https://uiverse.io) - UI components inspiration
