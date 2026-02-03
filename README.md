@@ -162,7 +162,7 @@ Contributions are welcome! Here's how:
 - GitHub: [@naivedhp2518](https://github.com/naivedhp2518)
 
 ---
-h
+
 ## 🙏 Acknowledgments
 
 - [Uiverse.io](https://uiverse.io) - UI components inspiration
@@ -172,5 +172,5 @@ h
 ---
 
 <p align="center">
-  Made with ❤️ and JavaScript
+  Made with ❤️ and Full Of Efforts 
 </p>
