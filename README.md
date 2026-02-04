@@ -9,7 +9,7 @@ A modern, feature-rich notes application with a beautiful UI, dark/light theme t
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Demo](https://naivedhP2518.github.io/Keep-Notes-/)**
+🔗 **[View Live Demo](https://naivedhp2518.github.io/Easy-Notes/)**
 
 ---
 
